@@ -1,2 +1,2 @@
 # DAOYABS
-Couche DAO de la librairie Yet Another BookStore, librairie en ligne
+Couche DAO de Yet Another BookStore, librairie en ligne
